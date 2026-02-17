@@ -1,0 +1,6 @@
+,best_sampling,best_accuracy
+LogisticRegression,Cluster,0.9635
+DecisionTree,Cluster,0.9867
+RandomForest,SimpleRandom,0.9969
+KNN,Cluster,0.9734
+SVM,Cluster,0.794

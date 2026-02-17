@@ -1,0 +1,6 @@
+,best_model,best_accuracy
+SimpleRandom,RandomForest,0.9969
+Systematic,RandomForest,0.9891
+Stratified,RandomForest,0.9969
+Cluster,RandomForest,0.9967
+Convenience,RandomForest,0.9969
